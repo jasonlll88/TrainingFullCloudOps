@@ -9,7 +9,7 @@
 ## Basic GIT commands
 
 - git init:  to start repository 
-- git add. :  save changes 
+- git add . :  save changes 
 - git commit -m "name":  create a commit 
 - git checkout: move between branches 
 - git config --global user.name "name@":  global name setting 
