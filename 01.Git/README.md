@@ -26,3 +26,4 @@
 - git remote origin:  show all remote version of your repository 
 
 
+
